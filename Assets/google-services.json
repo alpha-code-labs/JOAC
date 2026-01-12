@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "327829812886",
+    "project_id": "joac-bceb5",
+    "storage_bucket": "joac-bceb5.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:327829812886:android:2b6c47462d81f9224034b7",
+        "android_client_info": {
+          "package_name": "com.AlphaCodeLabs.games.android.JOAC"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCN1588ZlG-3rZ-O83DCApE5hb5mIlQzKI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

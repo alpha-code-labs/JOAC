@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: FielderAnimations
+  m_EditorClassIdentifier: 
+  m_GroupName: FielderAnimations
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 9cf1f20d414d0c34abd700bb16c1a85d
+  m_SerializeEntries: []
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: bb33c0b507eb7264b92dcbc5ba2f0a1c, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 7bdd84462d2ff384998275ca2f6182ee, type: 2}
+    - {fileID: 11400000, guid: 1a5dca87a61e3b14a8bce705fe8d0a18, type: 2}

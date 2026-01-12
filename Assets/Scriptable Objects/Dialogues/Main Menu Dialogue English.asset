@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b1283f602dcc17c4e8c4b0e26c0b4a59, type: 3}
+  m_Name: Main Menu Dialogue English
+  m_EditorClassIdentifier: Assembly-CSharp::DialogueData
+  dialogueLines:
+  - reference: d1
+    DialogueText: ' Little brother! this is your control center. Throughout this
+      journey, you will always return here to track your progress'
+    portrait: {fileID: 21300000, guid: 42124582ef1734d48a93c74b3bf02ffd, type: 3}
+    voiceClip: {fileID: 0}
+    displayTime: 10
+  - reference: d2
+    DialogueText: On the top right, you can see that you'll keep earning coins throughout
+      this journey. For now, these coins aren't very important, but starting from
+      Chapter 2, they'll play a crucial role.
+    portrait: {fileID: 21300000, guid: 42124582ef1734d48a93c74b3bf02ffd, type: 3}
+    voiceClip: {fileID: 0}
+    displayTime: 13
